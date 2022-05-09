@@ -1,0 +1,13 @@
+Alguns comando em GIT BASH
+
+//verifica status
+$ git status
+
+//adiciona no controle de versão local
+$ git add .
+
+//realiza o commit para o arquivo
+$ git commit -m "texto explicativo"
+
+//mandar para a nuvem
+$ git push origin main  
