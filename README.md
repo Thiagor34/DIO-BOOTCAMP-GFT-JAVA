@@ -2,6 +2,7 @@
 
 Desafio projeto Git/GitHub através do bootCamp GFT Start #5 JAVA!
 
+<<<<<<< HEAD
 Módulo I - Fundamentos
 Módulo II - Setup
 Módulo III - Java Fundamental

@@ -11,3 +11,9 @@ $ git commit -m "texto explicativo"
 
 //mandar para a nuvem
 $ git push origin main  
+
+//faz um fetch das atualizações feitas em repositório online
+$ git fetch origin
+
+//faz um merge das atualizações feitas online para o trabalho local
+$ git merge origin  
